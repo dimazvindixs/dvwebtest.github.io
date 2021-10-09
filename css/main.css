@@ -1,0 +1,125 @@
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+.s1 {
+  background: url("../images/secone.jpg");
+  background-size: cover;
+}
+
+.s1 h1 {
+  text-align: center;
+  margin-left: 2em;
+  margin-right: 2em;
+  font-size: 3rem;
+}
+
+.s2 {
+  background: url("../images/sectwo.jpg");
+  background-size: cover;
+}
+
+.s2 h1 {
+  text-align: left;
+  margin-left: 1.6em;
+  font-size: 4rem;
+}
+
+.s2 p {
+  text-align: left;
+  margin-left: 5em;
+  margin-right: 50%;
+  font-size: 1.3em;
+}
+
+.s3 {
+  background: url("../images/secthree.jpg");
+  background-size: cover;
+}
+
+.s3 h1 {
+  text-align: center;
+  margin-bottom: 30%;
+  font-size: 4rem;
+}
+
+.s3 h1:after {
+  content: '';
+  background: white;
+  display: block;
+  width: 200px;
+  height: 3px;
+  margin: 10px auto;
+}
+
+.fa {
+  color: white;
+}
+
+.s4 {
+  background: url("../images/secone.jpg");
+  background-size: cover;
+}
+
+.s4 h1 {
+  text-align: right;
+  margin-right: 1.6em;
+  font-size: 4rem;
+}
+
+.s4 h2 {
+  text-align: right;
+  margin-right: 4.5em;
+  font-size: 1.5rem;
+}
+
+.s4 p {
+  text-align: right;
+  margin-right: 5em;
+  margin-left: 50%;
+  font-size: 1.3em;
+}
+
+.s5 {
+  background: url("../images/sectwo.jpg");
+  background-size: cover;
+}
+
+.s5 h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.s6 {
+  background: url("../images/secthree.jpg");
+  background-size: cover;
+}
+
+.s6 h1 {
+  text-align: center;
+  margin-left: 2em;
+  margin-right: 2em;
+  font-size: 2rem;
+}
+
+span {
+  background: white !important;
+}
+/*# sourceMappingURL=main.css.map */

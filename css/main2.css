@@ -1,0 +1,18 @@
+.wrapper {
+    margin-top: 10%;
+}
+
+.wrapper h1{
+    text-align: center;
+}
+
+.feature {
+    display: flex;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+}
+
+.fa-color {
+    color: white;
+}
